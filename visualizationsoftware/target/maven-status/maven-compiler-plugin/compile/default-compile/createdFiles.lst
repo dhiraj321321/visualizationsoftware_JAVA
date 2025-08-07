@@ -1,0 +1,15 @@
+com\login\visualizationsoftware\controller\LoginServlet.class
+com\login\visualizationsoftware\util\DBConnection.class
+com\login\visualizationsoftware\controller\RegisterServlet.class
+com\login\visualizationsoftware\controller\UploadServlet.class
+com\login\visualizationsoftware\model\DataRecord.class
+com\login\visualizationsoftware\util\CsvParser.class
+com\login\visualizationsoftware\dao\FileDAO.class
+com\login\visualizationsoftware\controller\LogoutServlet.class
+com\login\visualizationsoftware\controller\ChartServlet.class
+com\login\visualizationsoftware\JAXRSConfiguration.class
+com\login\visualizationsoftware\model\FileMetadata.class
+com\login\visualizationsoftware\model\User.class
+com\login\visualizationsoftware\resources\JavaEE8Resource.class
+com\login\visualizationsoftware\util\ChartUtils.class
+com\login\visualizationsoftware\dao\UserDAO.class
